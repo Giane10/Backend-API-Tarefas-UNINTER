@@ -66,4 +66,4 @@ Todos os endpoints acima foram testados e documentados com sucesso utilizando o 
 
 O registro obrigatório de teste (**Desenvolvimento da API**) foi criado com o identificador: **`Giane46881..`**.
 
-[// Opcional: Adicione aqui uma imagem de um dos seus testes do Postman]
+
